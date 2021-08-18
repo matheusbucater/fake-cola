@@ -1,0 +1,94 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Wpforms submit 126 **/
+#wpforms-submit-126 {
+	color: #FFFFFF !important;
+	font-size: 18px !important;
+	font-weight: bold !important;
+	background-color: rgb(232, 54, 54) !important;
+	width: 25% !important;
+	height: 50px !important;
+}
+#wpforms-submit-126:hover {
+	background-color: #000 !important;
+}
+
+/** Geral >> Elementor element 69df79e3 link **/
+.elementor-element-69df79e3 a {
+	font-size: 35px !important;
+	vertical-align: top !important;
+}
+
+/** Geral >> Link:(1) elementor icon list text:(1) **/
+.elementor-element-61ba5239 > div > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1) > .elementor-icon-list-text:nth-of-type(1) {
+	font-size: 18px !important;
+}
+
+/** Geral >> Link:(1) elementor icon list text:(1) _2 **/
+.elementor-element-61ba5239 > div > ul:nth-of-type(1) > li:nth-of-type(2) > a:nth-of-type(1) > .elementor-icon-list-text:nth-of-type(1) {
+	font-size: 18px !important;
+}
+
+/** Geral >> Link:(1) elementor icon list text:(1) _3 **/
+.elementor-element-61ba5239 > div > ul:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1) > .elementor-icon-list-text:nth-of-type(1) {
+	font-size: 18px !important;
+}
+
+/** Geral >> Elementor section wrap elementor element 4f9a8708 **/
+.elementor-section-wrap > .elementor-element-4f9a8708 {
+	height: 80px !important;
+}
+
+/** Geral >> Elementor element cf7dd27 premium fancy text **/
+.elementor-element-cf7dd27 .premium-fancy-text:hover {
+	font-size: 50px !important;
+	text-transform: uppercase !important;
+}
+
+/** Geral >> Elementor element cf7dd27 premium fancy text wrapper **/
+.elementor-element-cf7dd27 .premium-fancy-text-wrapper {
+	
+}
+
+/** Geral >> Wpforms confirmation 126 **/
+#wpforms-confirmation-126 {
+	background-color: transparent !important;
+	border-color: transparent !important;
+}
+
+/** Geral >> Elementor element 832caec lottie-player _2 **/
+.elementor-element-832caec lottie-player {
+	
+}
+
+/** Geral >> Wpforms confirmation 126 _2 **/
+#wpforms-confirmation-126 {
+	vertical-align: center !important;
+	width: 100% !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+	-webkit-align-content: center !important;
+	align-content: center !important;
+}
+
+/** Geral >> Elementor element 832caec lottie-player **/
+.elementor-element-832caec lottie-player {
+	text-align: center !important;
+}
+
+/** Geral >> Elementor element 3a1c637 link **/
+.elementor-element-3a1c637 a {
+	
+}
+
+/** Geral >> white space top **/
+.elementor-element-9b1fce7 > .elementor-element-populated {
+	height: 0 !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	visibility: hidden !important;
+}
+
